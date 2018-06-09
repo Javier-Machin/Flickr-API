@@ -1,3 +1,17 @@
-// Place all the styles related to the static_pages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.Main_container {
+  text-align: center;
+}
+
+.Pic_container  {
+  display: block;
+}
+
+.Form_container {
+  margin-bottom: 10px;
+}
+
+.Flash {
+  background-color: pink;
+  text-align: center;
+  font-size: 25px;
+}
